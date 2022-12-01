@@ -1,7 +1,7 @@
 /** lab34-1.c
 * ===========================================================
-* Name: FIRST LAST, DATE
-* Section: SECTION
+* Name: Benjmain Tat
+* Section: T6
 * Project: Lab 34
 * =========================================================== 
 */
@@ -15,6 +15,8 @@ int main() {
     // parameter and returns the input value with its bits in reverse
     // order. 
     
+    reverse_bits(100);
+
     // NOTE:  To avoid the special case of right shifting
     // signed values your prototype should accept an unsigned int,
     // initialize an unsigned int to hold the reversed bits, but
